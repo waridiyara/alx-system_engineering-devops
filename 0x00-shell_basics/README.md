@@ -1,1 +1,1 @@
-ls displays content list of current directory
+delete-file
